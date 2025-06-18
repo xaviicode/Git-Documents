@@ -39,10 +39,15 @@ Accede a la documentación oficial de Git para profundizar en cada comando y con
 ### ⭐ Estrellas del Repositorio
 ## ✨ Interactividad y Métricas
 
-[![GitHub Stars](https://img.shields.io/github/stars/tu_usuario/Git-Documents?style=social)](https://github.com/tu_usuario/Git-Documents/stargazers), 
+## ✨ Interactividad y Métricas
 
+[![GitHub Stars](https://img.shields.io/github/stars/xaviicode/Git-Documents?style=social)](https://github.com/xaviicode/Git-Documents/stargazers)
+[![GitHub Visitors](https://komarev.com/ghpvc/?username=xaviicode&color=blue)](https://github.com/xaviicode)
 
-[![GitHub Forks](https://img.shields.io/github/forks/tu_usuario/Git-Documents?style
+¡Apoya este proyecto dando una estrella! El número de estrellas refleja el interés y la utilidad del repositorio para la comunidad.
+
+> **Nota:** Personaliza los badges con tu usuario y nombre de repositorio.
+
 
 
 
