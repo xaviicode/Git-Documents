@@ -85,7 +85,7 @@ Accede a la documentación oficial de Git para profundizar en cada comando y con
 
 ## 📬 Contacto y Comunidad
 
-¿Tienes dudas o sugerencias? Abre un issue o únete a la discusión en la sección de [![Discussions](https://github.com/tu_usuario/tu_repositorio/discussions).
+¿Tienes dudas o sugerencias? Abre un issue o únete a la discusión en la sección de [![Discussions](https://github.com/xaviicode/Git-Documents/discussions).
 
 ---
 
