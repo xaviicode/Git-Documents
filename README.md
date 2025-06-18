@@ -34,12 +34,8 @@ Accede a la documentación oficial de Git para profundizar en cada comando y con
 
 ---
 
-## ✨ Interactividad y Métricas
 
 ### ⭐ Estrellas del Repositorio
-## ✨ Interactividad y Métricas
-
-## ✨ Interactividad y Métricas
 
 [![GitHub Stars](https://img.shields.io/github/stars/xaviicode/Git-Documents?style=social)](https://github.com/xaviicode/Git-Documents/stargazers)
 [![GitHub Visitors](https://komarev.com/ghpvc/?username=xaviicode&color=blue)](https://github.com/xaviicode)
