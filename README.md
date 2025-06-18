@@ -75,7 +75,9 @@ Accede a la documentación oficial de Git para profundizar en cada comando y con
 [![GitHub Stars](https://img.shields.io/github/stars/xaviicode/Git-Documents?style=social)](https://github.com/xaviicode/Git-Documents/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/xaviicode/Git-Documents?style=social)](https://github.com/xaviicode/Git-Documents/network/members)
 [![GitHub Visitors](https://komarev.com/ghpvc/?username=xaviicode&color=blue)](https://github.com/xaviicode)
+
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xaviicode&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaviicode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
