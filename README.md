@@ -70,13 +70,13 @@ Monitorea cuántas personas visitan este repositorio:
 
 ## 📊 Métricas Avanzadas
 
-Puedes usar la [API de GitHub](https://docs.github.com/es/rest/metrics/statistics?apiVersion=2022-11-28) para obtener estadísticas detalladas de commits, contribuciones y actividad del repositorio.
+Puedes usar la [![API de GitHub](https://docs.github.com/es/rest/metrics/statistics?apiVersion=2022-11-28) para obtener estadísticas detalladas de commits, contribuciones y actividad del repositorio.
 
 ---
 
 ## 📬 Contacto y Comunidad
 
-¿Tienes dudas o sugerencias? Abre un issue o únete a la discusión en la sección de [Discussions](https://github.com/tu_usuario/tu_repositorio/discussions).
+¿Tienes dudas o sugerencias? Abre un issue o únete a la discusión en la sección de [![Discussions](https://github.com/tu_usuario/tu_repositorio/discussions).
 
 ---
 
