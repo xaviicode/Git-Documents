@@ -97,5 +97,5 @@ Accede a la documentación oficial de Git para profundizar en cada comando y con
 
 ---
 
-¡Explora, aprende y contribuye! Este repositorio está pensado para que la documentación de Git sea clara, interactiva y útil para todos los niveles..
+¡Explora, aprende y contribuye! Este repositorio está pensado para que la documentación de Git sea clara, interactiva y útil para todos los niveles.
 
